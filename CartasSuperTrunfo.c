@@ -1,14 +1,5 @@
 #include <stdio.h>
 
-/*
- Densidade Populacional 
- população / area (float)
-
- PIB per capita(float)
- pib / população
-*/
-
-
 int main() {
  
     char estado[50];
